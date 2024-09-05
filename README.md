@@ -77,6 +77,8 @@ Enter rectangle width:  3
 Output: Area of the rectangle is: 21.0
 ```
 
+This application serves a very niche purpose and is not easily modified to fufill any other application purpose.
+
 ## Contributions
 Eric Keeton
 
